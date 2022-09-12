@@ -1,0 +1,17 @@
+/* 
+  Currency.json
+  Baluchon
+
+  Created by Déborah Suon on 20/12/2021.
+  
+*/
+
+
+{
+    "success": true,
+
+    "rates": {
+        "EUR": 1.0,
+        "USD": 1.092908,
+    }
+}
